@@ -1,0 +1,45 @@
+[[main]]
+  name = "Início"
+  url = ""
+  weight = -110
+
+[[main]]
+  name = "Arquivos"
+  url = "post/rich-content/"
+  weight = -109
+
+# Submenus are done this way: parent -> identifier
+[[main]]
+  name = "Links"
+  identifier = "Links"
+  weight = -108
+[[main]]
+  parent = "Links"
+  name = "Facebook"
+  url = "https://www.facebook.com/juntamilitar/"
+[[main]]
+  parent = "Links"
+  name = "Twitter"
+  url = "https://twitter.com/juntamilitar/"
+
+[[main]]
+  name = "Sobre"
+  url = "about/"
+  weight = -107
+
+[[social]]
+  name = "twitter"
+  weight = 1
+  url = "https://twitter.com/juntamilitar/"
+[[social]]
+  name = "facebook"
+  weight = 2
+  url = "https://facebook.com/juntamilitar/"
+[[social]]
+  name = "instagram"
+  weight = 3
+  url = "https://instagram.com/juntamilitar/"
+[[social]]
+  name = "rss"
+  weight = 4
+  url = "index.xml"

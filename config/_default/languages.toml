@@ -1,0 +1,10 @@
+
+[pt]
+  title = "Junta Militar" # just for the sake of showing this is possible
+  LanguageName = "Português"
+  weight = 1
+
+[es]
+  title = "Junta Militar"
+  LanguageName = "Español"
+  weight = 2

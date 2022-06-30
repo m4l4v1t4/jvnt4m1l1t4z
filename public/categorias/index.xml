@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categorias on Junta Militar</title>
+    <link>https://juntamilitar.netlify.app/categorias/</link>
+    <description>Recent content in Categorias on Junta Militar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Fri, 24 Jun 2022 13:15:40 -0300</lastBuildDate><atom:link href="https://juntamilitar.netlify.app/categorias/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
